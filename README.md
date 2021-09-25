@@ -8,7 +8,7 @@ Tests require JUnit and Mockito
 
 Project dependencies and compiling managed by Gradle
 
-Compile: ./gradlew clean compile
+build: ./gradlew clean build
 
 Test: ./gradlew test
 
