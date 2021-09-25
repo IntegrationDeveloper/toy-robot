@@ -12,7 +12,7 @@ Compile: ./gradlew clean compile
 
 Test: ./gradlew test
 
-Run: ./gradlew run
+Run: ./gradlew bootRun
 
 Packaging: ./gradlew package, compiled jar in target/ folder
 
